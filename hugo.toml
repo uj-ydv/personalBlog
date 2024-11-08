@@ -19,7 +19,7 @@ author = "Ujjwal Yadav"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
 description = "Ujjwal Yadav's personal website"
 keywords = "blog,developer,personal"
-info = ["Cloud & Devops Engineer"] # , "Magician"]
+info = ["Cloud & Devops Engineer"]
 avatarURL = "images/avatar.jpeg"
 dateFormat = "January 2, 2006"
 since = 2023
