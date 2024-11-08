@@ -1,1 +1,3 @@
-This repo contains the code for my personal blog. The blog is built using [Hugo](https://gohugo.io) and the theme used is [Cactus Plus](https://themes.gohugo.io/themes/hugo-theme-cactus-plus/).
+# Ujjwal's Website
+
+This repo contains the code for my personal website and blog.
