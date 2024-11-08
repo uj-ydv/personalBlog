@@ -2,25 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://192.168.0.133:1313/blog/</loc>
+    <loc>http://www.blog.ulan/blog/</loc>
     <lastmod>2024-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://192.168.0.133:1313/categories/</loc>
+    <loc>http://www.blog.ulan/</loc>
     <lastmod>2024-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://192.168.0.133:1313/blog/selfhosted-design/</loc>
-    <lastmod>2024-06-01T00:00:00+00:00</lastmod>
+    <loc>http://www.blog.ulan/authors/</loc>
   </url><url>
-    <loc>http://192.168.0.133:1313/categories/selfhosting/</loc>
-    <lastmod>2024-06-01T00:00:00+00:00</lastmod>
+    <loc>http://www.blog.ulan/categories/</loc>
   </url><url>
-    <loc>http://192.168.0.133:1313/</loc>
-    <lastmod>2024-06-01T00:00:00+00:00</lastmod>
+    <loc>http://www.blog.ulan/series/</loc>
   </url><url>
-    <loc>http://192.168.0.133:1313/authors/</loc>
-  </url><url>
-    <loc>http://192.168.0.133:1313/series/</loc>
-  </url><url>
-    <loc>http://192.168.0.133:1313/tags/</loc>
+    <loc>http://www.blog.ulan/tags/</loc>
   </url>
 </urlset>

@@ -6,7 +6,7 @@ date: "2024-06-01"
 draft: true
 categories: ["SelfHosting"]
 ---
-This document outlines the design, setup, and implementation of my selfhosted architecture. The goal is to create a robust, scalable, and efficient environment for hosting various applications within a home lab setup.
+This document outlines the design, setup, and implementation of my selfhosted architecture. The goal is to create a working environment for hosting various applications within a home lab setup.
 
 ## Design Architecture
 ![SelfHosting Setup Diagram](ArchitectureDesign.png)
@@ -15,15 +15,15 @@ This document outlines the design, setup, and implementation of my selfhosted ar
 
 ### Home Network
 
-The foundation of this architecture is a reliable home network, managed by my home router.
+The foundation of this architecture is the home network, managed by my home router.
 
 ### User Devices
 
-Multiple user devices, such as PCs, smartphones, and tablets, are connected to this home network. These devices act as endpoints for interacting with the services hosted within the home lab.
+Multiple devices, such as PCs, smartphones, and tablets, are connected to this home network. These devices act as endpoints for interacting with the services hosted within the home lab.
 
 ### Adguard DNS Server
 
-An Adguard DNS server is utilized to filter out unwanted ads and enhance privacy. It functions as a DNS resolver, blocking ads, trackers, and malicious websites, thereby providing a cleaner and safer browsing experience.
+An Adguard DNS server is utilized to filter out unwanted ads, enhance privacy and most importantly having our own local custom domains. It functions as a DNS resolver, blocking ads, trackers, and malicious websites, thereby providing a cleaner and safer browsing experience.
 
 ### Server with Docker
 
