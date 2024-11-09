@@ -2,18 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://blog.ulan/blog/</loc>
+    <loc>http://blog.ulan/blog/</loc>
     <lastmod>2024-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blog.ulan/</loc>
+    <loc>http://blog.ulan/</loc>
     <lastmod>2024-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blog.ulan/authors/</loc>
+    <loc>http://blog.ulan/authors/</loc>
   </url><url>
-    <loc>https://blog.ulan/categories/</loc>
+    <loc>http://blog.ulan/categories/</loc>
   </url><url>
-    <loc>https://blog.ulan/series/</loc>
+    <loc>http://blog.ulan/series/</loc>
   </url><url>
-    <loc>https://blog.ulan/tags/</loc>
+    <loc>http://blog.ulan/tags/</loc>
   </url>
 </urlset>
