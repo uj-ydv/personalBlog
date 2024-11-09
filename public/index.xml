@@ -2,18 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ujjwal Yadav</title>
-    <link>http://blog.ulan:1313/</link>
+    <link>http://blog.ulan/</link>
     <description>Recent content on Ujjwal Yadav</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 01 Jun 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://blog.ulan:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Selfhosted Design Architecture</title>
-      <link>http://blog.ulan:1313/blog/selfhosted-design/</link>
-      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://blog.ulan:1313/blog/selfhosted-design/</guid>
-      <description>This document outlines the design, setup, and implementation of my selfhosted architecture. The goal is to create a working environment for hosting various applications within a home lab setup.&#xA;Design Architecture Link to heading Setup Link to heading Home Network Link to heading The foundation of this architecture is the home network, managed by my home router.&#xA;User Devices Link to heading Multiple devices, such as PCs, smartphones, and tablets, are connected to this home network.</description>
-    </item>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="http://blog.ulan/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
