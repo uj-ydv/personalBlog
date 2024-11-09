@@ -3,7 +3,6 @@ author: Ujjwal
 title: "Selfhosted Design Architecture"
 description: "This is my selfhosted architecture design"
 date: "2024-06-01"
-draft: true
 categories: ["SelfHosting"]
 ---
 This document outlines the design, setup, and implementation of my selfhosted architecture. The goal is to create a working environment for hosting various applications within a home lab setup.
