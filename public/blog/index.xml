@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on Ujjwal Yadav</title>
-    <link>http://blog.ulan/blog/</link>
+    <link>https://uj-ydv.github.io/blog/</link>
     <description>Recent content in Blogs on Ujjwal Yadav</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="http://blog.ulan/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://uj-ydv.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

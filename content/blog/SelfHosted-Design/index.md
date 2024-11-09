@@ -41,10 +41,8 @@ Several applications are hosted within Docker containers, accessible via subdoma
 
 A Network Attached Storage (NAS) device is integrated to provide centralized storage for all files. This ensures easy access and management of data across various devices and applications.
 
-### Database
+### Database and Data Files
 
-A reliable database system is used to handle structured data needs of various applications, ensuring data integrity and accessibility.
+Database system is used to handle structured data needs of various applications, ensuring data integrity and accessibility.
 
-### Data Files
-
-In addition to structured data, a separate storage solution for unstructured data like media files and documents is implemented. This storage is accessed and managed by the applications as needed.
+In addition to structured data, a separate storage solution for unstructured data like media files and documents is implemented. This storage is accessed and managed by the applications as needed. For eg: Data files
